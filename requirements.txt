@@ -1,0 +1,18 @@
+# Vulnerable dependencies for SCA scanning - mixed severities
+
+# Critical CVEs
+django==2.2.0
+cryptography==2.8
+
+# High CVEs
+Jinja2==2.10
+Pillow==6.2.0
+paramiko==2.4.0
+
+# Medium CVEs
+PyYAML==5.1
+requests==2.19.0
+
+# Low CVEs
+urllib3==1.24.1
+setuptools==56.0.0
